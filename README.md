@@ -3,7 +3,9 @@
 ## Introduction:
 
 This project is to transfer token to multiple address in once , you can define the token value between the number to prevent witch attack
-
+pip install :
+python-binance
+requests
 ## How to use:
 
 1. You need to download these code
@@ -34,4 +36,4 @@ This project is to transfer token to multiple address in once , you can define t
         ```
         
 3. How to Start?
-    1. Make sure you have edited `[main.py](http://main.py)` , you will need to set the amount of the token
+    1. Make sure you have edited `[main.py]` , you will need to set the amount of the token
