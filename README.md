@@ -2,10 +2,10 @@
 
 ## Introduction:
 
-This project is to transfer token to multiple address in once , you can define the token value between the number to prevent witch attack
-pip install :
-python-binance
-requests
+This project is to transfer token to multiple address in once
+## Pip install:
+1.python-binance
+2.requests
 ## How to use:
 
 1. You need to download these code
