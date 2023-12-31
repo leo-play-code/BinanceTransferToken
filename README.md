@@ -4,8 +4,8 @@
 
 This project is to transfer token to multiple address in once
 ## Pip install:
-1.python-binance
-2.requests
+1. python-binance
+2. requests
 ## How to use:
 
 1. You need to download these code
